@@ -1,5 +1,5 @@
 
-t #define BLYNK_PRINT Serial
+#define BLYNK_PRINT Serial
 
 
 #include <ESP8266WiFi.h>
